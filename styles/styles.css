@@ -280,6 +280,61 @@
   font-weight: bold;
   
 }
+.cta-section {
+  padding: 80px 20px;
+}
+
+.cta-box {
+  max-width: 1200px;
+  margin: auto;
+  background: #faf9f6;
+  border-radius: 12px;
+  padding: 60px 20px;
+  text-align: center;
+}
+
+.cta-box h2 {
+  font-size: 36px;
+  color: #0f172a;
+  margin-bottom: 16px;
+}
+
+.subtitle {
+  color: #64748b;
+  line-height: 1.6;
+  margin-bottom: 24px;
+}
+
+.simple-text {
+  font-size: 14px;
+  color: #64748b;
+  margin-bottom: 16px;
+}
+
+.cta-button {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  background: #4f8f5a;
+  color: #ffffff;
+  text-decoration: none;
+  padding: 14px 24px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+
+.cta-button:hover {
+  background: #3f7c4c;
+}
+
+.footer-text {
+  margin-top: 20px;
+  font-size: 13px;
+  color: #6b7280;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
 
 
 
